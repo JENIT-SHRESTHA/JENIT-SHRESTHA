@@ -1,0 +1,5 @@
+{
+	"ip":"GorkhasSmp.aternos.me",
+	"port": "47563",
+	"name": "Lado-kahu"
+}
